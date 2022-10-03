@@ -8,3 +8,5 @@ Develop ML models in JavaScript, and use ML directly in the browser or in Node.j
 ### Object detection
 ### Body segmentation
 ### Pose detection
+### Text toxicity detection
+### Universal sentence encoder
