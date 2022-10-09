@@ -12,3 +12,4 @@ Develop ML models in JavaScript, and use ML directly in the browser or in Node.j
 ### Universal sentence encoder
 ### Speech command recognition
 ### KNN Classifier
+### Simple face detection
