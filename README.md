@@ -14,3 +14,4 @@ Develop ML models in JavaScript, and use ML directly in the browser or in Node.j
 ### KNN Classifier
 ### Simple face detection
 ### Semantic segmentation
+### Face landmask detection
