@@ -15,3 +15,4 @@ Develop ML models in JavaScript, and use ML directly in the browser or in Node.j
 ### Simple face detection
 ### Semantic segmentation
 ### Face landmask detection
+### Hand pose detection
